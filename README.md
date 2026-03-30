@@ -21,13 +21,6 @@
 
 ---
 
-### ⚡ About Me
-- 🔭 I’m currently sharpening my skills in **C#, Java, and SQL**.
-- 🎌 Learning **Japanese** (日本語)
-- ⛹️ Retired Basketball Player
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
